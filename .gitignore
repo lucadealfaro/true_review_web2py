@@ -42,6 +42,8 @@ applications/*
 !applications/examples/*
 !applications/admin
 !applications/admin/*
+!applications/true_review
+!applications/true_review/*
 applications/*/databases/*
 applications/*/sessions/*
 applications/*/errors/*

@@ -1,3 +1,6 @@
 [submodule "gluon/packages/dal"]
 	path = gluon/packages/dal
 	url = https://github.com/web2py/pydal.git
+[submodule "applications/true_review"]
+	path = applications/true_review
+	url = git@github.com:lucadealfaro/true_review.git
