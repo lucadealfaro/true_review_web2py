@@ -10,3 +10,10 @@ This will clone the version of web2py we are using for TrueReview, which contain
 
 - true_review (https://github.com/lucadealfaro/true_review), the TrueReview application proper,
 - pydal (https://github.com/web2py/web2py.git) for database access.
+
+Branches:
+
+- master is the master branch of web2py
+- true_review is the main branch of TrueReview, and contains additional things (site packages, routes, etc) needed by TrueReview.
+
+When you check out the code, you are automatically on the true_review branch.
