@@ -14,7 +14,6 @@
 Thumbs.db
 .DS_Store
 index.yaml
-routes.py
 logging.conf
 gluon/tests/VERSION
 gluon/tests/sql.log
@@ -58,5 +57,4 @@ HOWTO-web2py-devel
 *.sublime-project
 *.sublime-workspace
 .idea/*
-site-packages/
 logs/
